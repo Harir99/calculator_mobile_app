@@ -1,6 +1,4 @@
-#1 native languge used: kotlin
-
-#2 Cross platform language used: react native
+Language Used: React Native
 
 ### Create new Project for react native
 $ npx react-native@latest init AwesomeProject
